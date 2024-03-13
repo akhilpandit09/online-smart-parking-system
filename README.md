@@ -2,9 +2,7 @@
 
 This repository contains the code for an online smart parking system implemented using Arduino and various components. The system aims to optimize parking space utilization by providing real-time information about slot availability to users.
 
-
-https://github.com/akhilpandit09/online-smart-parking-system/assets/64522940/983a3334-b55b-4aaa-8c30-d9c27748b582
-
+https://github.com/akhilpandit09/online-smart-parking-system/assets/64522940/da0b1107-95b8-41bd-83a5-e6390a66bea6
 
 ### Components Used:
 - Arduino ESP32 Dev Module
